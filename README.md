@@ -8,14 +8,13 @@
 
 ## 🚀 About Me  
 - **Robotics**: Main programmer + builder for my VEX team. Twice represented Singapore at the VEX Robotics World Championships (Middle School & High School categories).  
-- **Leadership**: 3 years of experience in my school's consortium council, and currently Senior (Lead) Councillor in boarding school. Previously Project Director for major events as well.  
-- **Projects**: Some experience building mobile and web applications. Recently built a published website for boarding's Sports Fiesta (custom interface for scorekeepers, competitors, and guests).  
-- **Learning**: CAD with Fusion 360, programming in Python/C++ and currently exploring web/app development.  
+- **Leadership**: 3 years of experience in my school's consortium council, and currently Senior (Lead) Councillor in boarding school. Have been Project Director for major events as well.  
+- **Projects**: Some experience building mobile and web applications - both personal projects and platforms for boarding school.
 
 ---
 
 ## 🏆 Highlights  
-- 🥇 Excellence Award (Middle School), Tournament Champion, Judeges Award, Amaze Award at Singapore VEX National Competition.  
+- 🥇 Excellence Award (Middle School), Tournament Champion, Judges Award, Amaze Award at Singapore VEX National Competition.  
 - 🌍 Competed internationally at VEX Worlds (x2).  
 - 🛠️ Hands-on with digital + mechanical design, coding and event planning.  
 
